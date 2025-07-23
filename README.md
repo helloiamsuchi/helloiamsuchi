@@ -3,7 +3,7 @@
 
 🚀 Tech Enthusiast  
 
-# Studying in 1st year
+# Studying in 2nd year
 
 ## 🌐 Socials :
 <a href="https://www.linkedin.com/in/suchismita-behera-57417a315/">
