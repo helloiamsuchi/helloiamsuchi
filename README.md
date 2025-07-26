@@ -1,7 +1,7 @@
-
 # Hey there! 👋 I'm Suchismita B
 
 🚀 Tech Enthusiast  
+Interested to learn about AI and Web dev
 
 # Studying in 2nd year
 
