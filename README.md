@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&width=435&lines=Hi+I'm+Suchismita!;I+love+ethical+AI+and+poetic+code;Let's+build+something+beautiful)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&width=435&lines=Hi+I'm+Suchismita!)
 
 🚀 Tech Enthusiast  
 Interested to learn about AI and Web dev
