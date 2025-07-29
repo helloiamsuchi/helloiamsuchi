@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&width=435&lines=Hi+I'm+Suchismita!)
 
-I am really interested in learning Artificial Intelligence and Wb Development. 
+I am really interested in learning Artificial Intelligence and Web Development. 
 # Studying in 2nd year
 
 ### 🧰 Tech stack :
