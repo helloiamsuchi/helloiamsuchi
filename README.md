@@ -6,6 +6,3 @@ I am really interested in learning Artificial Intelligence and Web Development.
 ### 🧰 Tech stack :
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,vscode,github,flutter)](https://skillicons.dev)
 ---
-
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloiamsuchi)](https://github.com/helloiamsuchi/github-readme-stats)
