@@ -4,5 +4,5 @@ I am really interested in learning Artificial Intelligence and Web Development.
 # Studying in 2nd year
 
 ### 🧰 Tech stack :
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,github,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,github,flutter,c,tailwindcss)](https://skillicons.dev)
 
