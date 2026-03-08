@@ -21,37 +21,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Click **Commit new file**
-
----
-
-**3b. Give the Action permission to write**
-
-This step trips up a lot of beginners — don't skip it!
-
-1. Click **Settings** tab (in your repo, not your account)
-2. In the left sidebar, click **Actions** → **General**
-3. Scroll down to **Workflow permissions**
-4. Select **Read and write permissions**
-5. Click **Save**
-
----
-
-**3c. Run it for the first time**
-
-1. Click the **Actions** tab in your repo
-2. On the left, click **Generate Snake**
-3. Click the grey **Run workflow** dropdown → **Run workflow**
-4. Wait about 30 seconds — refresh the page
-5. You should see a green ✅ checkmark
-
----
-
-**3d. Link the snake in your README**
-
-Go back to editing your README and make sure this line has your real username:
-```
-![snake gif](https://github.com/helloiamsuchi/helloiamsuchi/blob/output/github-contribution-grid-snake-dark.svg)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}![snake gif](https://github.com/helloiamsuchi/helloiamsuchi/blob/output/github-contribution-grid-snake-dark.svg)
