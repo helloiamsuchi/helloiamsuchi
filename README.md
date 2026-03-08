@@ -1,8 +1,25 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&width=435&lines=Hi+I'm+Suchismita+Behera!)
+<div align="center">
 
-I am really interested in learning Artificial Intelligence and Web Development. 
-# Studying in 2nd year
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Suchismita%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Sophomore%20•%20Coding%20•%20Always%20Learning&descAlignY=55&descSize=18)
 
-### 🧰 Tech stack :
+## 🧰 Tech stack :
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,github,flutter,c,tailwindcss)](https://skillicons.dev)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=helloiamsuchi&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/helloiamsuchi/helloiamsuchi/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
