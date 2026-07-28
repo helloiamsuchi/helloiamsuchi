@@ -5,8 +5,6 @@
 ## 🧰 Tech stack :
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,github,flutter,c,tailwindcss)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=helloiamsuchi&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
 </div>
 
 ---
